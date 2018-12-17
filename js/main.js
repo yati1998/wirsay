@@ -259,7 +259,7 @@
         ssPhotoswipe();
         ssSlickSlider();
         ssSmoothScroll();
-        ssAlertBoxes();
+       // ssAlertBoxes();
         ssAOS();
 
     })();
